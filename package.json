@@ -1,0 +1,11 @@
+{
+  "name": "leetcode-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IslomJonMirzakbarov/leetcode-practice.git",
+  "author": "IslomJonMirzakbarov <islomjonmirzakbarov@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
